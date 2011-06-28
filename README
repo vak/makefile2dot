@@ -12,7 +12,7 @@ sudo apt-get install python
 
 === USAGE ===
 
-	makefile2dot <Makefile >out.dot
+	python makefile2dot <Makefile >out.dot
 or
-	makefile2dot <Makefile |dot -Tpng > out.png
+	python makefile2dot <Makefile |dot -Tpng > out.png
 
