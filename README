@@ -1,16 +1,16 @@
-== A quick-n-dirty visualizer for Makefiles ==
+# A quick-n-dirty visualizer for Makefiles #
 
 DISCLAIMER: I've spent an hour to visualize the Makefile I needed. 
             So, sorry if it won't work for you.
 
-=== DESCRIPTION ===
+## DESCRIPTION ##
 makefile2dot has been written to visualize Makefiles, e.g. GNU make Makefile. 
 It is written in Python and implies that you have Python and GraphViz "dot" utility installed:
 
 sudo apt-get install graphviz
 sudo apt-get install python
 
-=== USAGE ===
+## USAGE ##
 
 	python makefile2dot <Makefile >out.dot
 or
