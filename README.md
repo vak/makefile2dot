@@ -7,12 +7,12 @@ DISCLAIMER: I've spent an hour to visualize the Makefile I needed.
 makefile2dot has been written to visualize Makefiles, e.g. GNU make Makefile. 
 It is written in Python and implies that you have Python and GraphViz "dot" utility installed:
 
-sudo apt-get install graphviz
-sudo apt-get install python
+    sudo apt-get install graphviz python
 
 ## USAGE ##
 
-	python makefile2dot <Makefile >out.dot
+    python makefile2dot <Makefile >out.dot
 or
-	python makefile2dot <Makefile |dot -Tpng > out.png
+
+    python makefile2dot <Makefile |dot -Tpng > out.png
 
