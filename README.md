@@ -16,3 +16,4 @@ or
 
     python makefile2dot <Makefile |dot -Tpng > out.png
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vak/makefile2dot/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
