@@ -15,5 +15,11 @@ It is written in Python and implies that you have Python and GraphViz "dot" util
 or
 
     python makefile2dot <Makefile |dot -Tpng > out.png
+    
+## Example ##
+
+This [example Makefile](https://github.com/vak/makefile2dot/blob/master/Makefile) will result in this png-image:
+    
+![ScreenShot](https://raw.githubusercontent.com/vak/makefile2dot/master/output-examlple.png)
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vak/makefile2dot/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
