@@ -1,6 +1,6 @@
 # A quick-n-dirty visualizer for Makefiles #
 
-DISCLAIMER: I've spent an hour to visualize the Makefile I needed. 
+DISCLAIMER: I've spent an hour to visualize a large Makefile I needed. 
             So, sorry if it won't work for you.
 
 ## DESCRIPTION ##
